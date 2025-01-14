@@ -23,4 +23,4 @@ Requirements:
 Installation:
 -------------
 1. Install Python 3.x from the official website: https://www.python.org/
-2. Install Flet by running the following command:
+2. Install Flet by running the following command: pip install flet
